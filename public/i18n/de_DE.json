@@ -1,0 +1,181 @@
+{
+  "frontend": {
+    "go_to_homepage": "Go to homepage",
+    "page_not_found": "Page not found",
+    "meta": {
+      "default": {
+        "title": "Redirect-Checker – Ihr ultimatives Tool zur Analyse von URL-Weiterleitungen",
+        "description": "Kostenloses Online-Tool zur Überprüfung von URL-Weiterleitungen, Analyse von Weiterleitungsketten und Optimierung der SEO-Leistung Ihrer Website."
+      }
+    },
+    "home": {
+      "h1": "Ihr ultimatives Tool zur Analyse von URL-Weiterleitungen",
+      "sub_to_h1": "Überprüfen Sie Ihre Weiterleitungen und Statuscodes",
+      "results_for": "Ergebnisse für",
+      "no_redirects_found": "Keine Weiterleitungen gefunden.",
+      "redirect_chain": "Weiterleitungskette",
+      "status": "Status",
+      "final_destination": "Endziel",
+      "check": "Überprüfen",
+      "faq": {
+        "qa1": {
+          "question": "Kann ich mehrere URLs auf einmal überprüfen?",
+          "answer": "Ja, unser Bulk-Redirect-Checker ermöglicht es Ihnen, mehrere URLs gleichzeitig zu analysieren. Geben Sie einfach eine URL pro Zeile in das Eingabefeld ein.\n"
+        },
+        "qa2": {
+          "question": "Unterstützt das Tool internationale URLs?",
+          "answer": "Absolut! Unser Redirect-Checker funktioniert mit URLs aus jedem Land und in jeder Sprache.\n"
+        },
+        "qa3": {
+          "question": "Wie kann ich Weiterleitungen für mobile Benutzer überprüfen?",
+          "answer": "Wählen Sie eine mobile User-Agent (wie iPhone oder Android) aus dem Dropdown-Menü, um das Verhalten von mobilen Weiterleitungen zu simulieren.\n"
+        },
+        "qa4": {
+          "question": "Gibt es eine Begrenzung, wie viele Weiterleitungen das Tool verfolgen kann?",
+          "answer": "Unser Tool kann bis zu 10 Weiterleitungen in einer Kette verfolgen. Wenn es mehr als 10 sind, wird es stoppen und Sie auf die ungewöhnlich lange Weiterleitungskette aufmerksam machen.\n"
+        },
+        "qa5": {
+          "question": "Kann dieses Tool mir helfen, fehlerhafte Weiterleitungen zu finden?",
+          "answer": "Ja, das Tool wird alle defekten Links in der Weiterleitungskette identifizieren und Ihnen den HTTP-Statuscode (wie 404 für \"Nicht gefunden\") anzeigen, bei dem die Kette unterbrochen wird."
+        },
+        "title": "Häufig gestellte Fragen"
+      },
+      "duration": "Dauer",
+      "trace_url": "Trace-URL",
+      "features": {
+        "security": {
+          "title": "Security",
+          "description": "SSL, HSTS & security headers analysis"
+        },
+        "seo": {
+          "title": "SEO Impact",
+          "description": "Meta tags, canonicals & SEO metrics"
+        },
+        "analysis": {
+          "title": "Full Analysis",
+          "description": "Complete redirect chain & headers"
+        }
+      },
+      "form": {
+        "placeholder": "Enter URL to analyze (e.g., https://example.com)",
+        "analyzing": "Analyzing Redirect Chain...",
+        "submit": "Analyze Redirect Chain"
+      },
+      "error": {
+        "title": "Error"
+      },
+      "validation": {
+        "url": "Please enter a valid URL"
+      }
+    },
+    "whyRedirectChecker": {
+      "whyNeeded": {
+        "title": "Why You Need a Redirect Checker",
+        "subtitle": "URL redirects are invisible to users but critical to your website's success. Here's what happens when they go wrong:"
+      },
+      "problems": {
+        "brokenChains": {
+          "title": "Broken Redirect Chains",
+          "description": "Redirect loops and broken chains can destroy your SEO rankings and frustrate users, costing you traffic and revenue.",
+          "impact": "Lost Traffic"
+        },
+        "slowLoad": {
+          "title": "Slow Page Load Times",
+          "description": "Each redirect adds precious milliseconds to load time. Multiple redirects can increase bounce rates by up to 32%.",
+          "impact": "Higher Bounce Rate"
+        },
+        "security": {
+          "title": "Security Vulnerabilities",
+          "description": "Malicious redirects and open redirect vulnerabilities expose your users to phishing attacks and malware.",
+          "impact": "Security Risks"
+        },
+        "seo": {
+          "title": "SEO Penalties",
+          "description": "Google penalizes improper redirects. 301 vs 302 choice matters - wrong implementation loses link equity and ranking.",
+          "impact": "Ranking Loss"
+        }
+      },
+      "whatMakesDifferent": {
+        "title": "What Makes Our Tool Different",
+        "subtitle": "Professional-grade redirect analysis with features you won't find anywhere else"
+      },
+      "features": {
+        "chainAnalysis": {
+          "title": "Complete Chain Analysis",
+          "description": "Track every hop in the redirect chain with detailed timing, status codes, and redirect types (HTTP, meta refresh, JavaScript)."
+        },
+        "securityAudit": {
+          "title": "Advanced Security Audit",
+          "description": "Comprehensive security header analysis including HSTS, CSP, X-Frame-Options, SSL/TLS validation, and certificate inspection."
+        },
+        "seoAssessment": {
+          "title": "SEO Impact Assessment",
+          "description": "Analyze meta tags, canonical URLs, Open Graph data, and get actionable insights on how redirects affect your search rankings."
+        },
+        "userAgentTesting": {
+          "title": "70+ User-Agent Testing",
+          "description": "Test redirects from Googlebot, Bingbot, social media crawlers, mobile devices, and gaming platforms - see exactly what they see."
+        },
+        "performanceMetrics": {
+          "title": "Real-Time Performance Metrics",
+          "description": "Measure exact redirect timing, identify bottlenecks, and optimize your redirect strategy for lightning-fast load times."
+        },
+        "exportTools": {
+          "title": "Professional Export Tools",
+          "description": "Export comprehensive reports in JSON or CSV format for client presentations, team collaboration, and historical tracking."
+        }
+      },
+      "cta": {
+        "stats": "Used by 10,000+ webmasters, SEO professionals, and developers",
+        "subtitle": "Join the professionals who trust our tool for mission-critical redirect analysis"
+      }
+    },
+    "helpfulTools": {
+      "title": "More Helpful Tools",
+      "subtitle": "Professional tools for web developers, designers, and SEO experts",
+      "tools": {
+        "faviconExtractor": {
+          "name": "Favicon Extractor",
+          "description": "Extract favicon from any website"
+        },
+        "faviconGenerator": {
+          "name": "Favicon Generator",
+          "description": "Generate favicons for all platforms"
+        },
+        "fontGenerator": {
+          "name": "Font Generator",
+          "description": "Create custom font styles"
+        },
+        "schemaValidator": {
+          "name": "Schema Validator",
+          "description": "Validate structured data markup"
+        },
+        "htmlToMarkdown": {
+          "name": "HTML to Markdown",
+          "description": "Convert HTML to Markdown format"
+        },
+        "whatsMyName": {
+          "name": "WhatsMyName",
+          "description": "Username search across platforms"
+        },
+        "publisherLens": {
+          "name": "Publisher Lens",
+          "description": "Publisher analytics and insights"
+        },
+        "serpChecking": {
+          "name": "SERP Checking",
+          "description": "Search engine results checker"
+        },
+        "isItDown": {
+          "name": "Is It Down Or Just Me",
+          "description": "Check if a website is down"
+        }
+      }
+    }
+  },
+  "shared": {
+    "desktop": "Desktop",
+    "mobile": "Mobile",
+    "strip_tracking_parameters": "Streifenverfolgungsparameter"
+  }
+}

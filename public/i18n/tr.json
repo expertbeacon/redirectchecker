@@ -1,0 +1,181 @@
+{
+  "frontend": {
+    "go_to_homepage": "Anasayfaya Git",
+    "page_not_found": "Sayfa bulunamadı",
+    "meta": {
+      "default": {
+        "title": "Yönlendirme Kontrolü - Nihai URL Yönlendirme Analiz Aracınız",
+        "description": "URL yönlendirmelerini kontrol etmek, yönlendirme zincirlerini analiz etmek ve web sitenizin SEO performansını optimize etmek için ücretsiz çevrimiçi araç."
+      }
+    },
+    "home": {
+      "h1": "Nihai URL Yönlendirme Analiz Aracınız",
+      "sub_to_h1": "Yönlendirmelerinizi ve Durum Kodlarınızı Kontrol Edin",
+      "results_for": "Sonuçlar",
+      "no_redirects_found": "Hiçbir yönlendirme bulunamadı.",
+      "redirect_chain": "Yönlendirme Zinciri",
+      "status": "Durum",
+      "final_destination": "Nihai Hedef",
+      "check": "Kontrol Et",
+      "faq": {
+        "qa1": {
+          "answer": "Evet, toplu yönlendirme denetleyicimiz birden fazla URL'yi aynı anda analiz etmenize olanak tanır. Giriş alanına her satırda bir URL girmeniz yeterlidir.\n",
+          "question": "Aynı anda birden fazla URL kontrol edebilir miyim?"
+        },
+        "qa2": {
+          "question": "Araç uluslararası URL'leri destekliyor mu?",
+          "answer": "Kesinlikle! Yönlendirme denetleyicimiz herhangi bir ülkeden ve herhangi bir dilde URL'lerle çalışır.\n"
+        },
+        "qa3": {
+          "question": "Mobil kullanıcılar için yönlendirmeleri nasıl kontrol edebilirim?",
+          "answer": "Mobil yönlendirme davranışını simüle etmek için açılır menüden bir mobil kullanıcı aracısı (örneğin, iPhone veya Android) seçin.\n"
+        },
+        "qa4": {
+          "question": "Aracın takip edebileceği yönlendirme sayısında bir sınır var mı?",
+          "answer": "Aracımız bir zincirde 10'a kadar yönlendirmeyi takip edebilir. 10'dan fazla varsa, duracak ve olağandışı uzun yönlendirme zinciri konusunda sizi uyaracaktır.\n"
+        },
+        "qa5": {
+          "question": "Bu araç bozuk yönlendirmeleri bulmama yardımcı olabilir mi?",
+          "answer": "Evet, araç yönlendirme zincirindeki bozuk bağlantıları tespit edecek ve zincirin koptuğu yerde HTTP durum kodunu (404 gibi \"Bulunamadı\") gösterecektir."
+        },
+        "title": "Sıkça Sorulan Sorular"
+      },
+      "duration": "Süre",
+      "trace_url": "URL'yi izle",
+      "features": {
+        "security": {
+          "title": "Security",
+          "description": "SSL, HSTS & security headers analysis"
+        },
+        "seo": {
+          "title": "SEO Impact",
+          "description": "Meta tags, canonicals & SEO metrics"
+        },
+        "analysis": {
+          "title": "Full Analysis",
+          "description": "Complete redirect chain & headers"
+        }
+      },
+      "form": {
+        "placeholder": "Enter URL to analyze (e.g., https://example.com)",
+        "analyzing": "Analyzing Redirect Chain...",
+        "submit": "Analyze Redirect Chain"
+      },
+      "error": {
+        "title": "Error"
+      },
+      "validation": {
+        "url": "Please enter a valid URL"
+      }
+    },
+    "whyRedirectChecker": {
+      "whyNeeded": {
+        "title": "Why You Need a Redirect Checker",
+        "subtitle": "URL redirects are invisible to users but critical to your website's success. Here's what happens when they go wrong:"
+      },
+      "problems": {
+        "brokenChains": {
+          "title": "Broken Redirect Chains",
+          "description": "Redirect loops and broken chains can destroy your SEO rankings and frustrate users, costing you traffic and revenue.",
+          "impact": "Lost Traffic"
+        },
+        "slowLoad": {
+          "title": "Slow Page Load Times",
+          "description": "Each redirect adds precious milliseconds to load time. Multiple redirects can increase bounce rates by up to 32%.",
+          "impact": "Higher Bounce Rate"
+        },
+        "security": {
+          "title": "Security Vulnerabilities",
+          "description": "Malicious redirects and open redirect vulnerabilities expose your users to phishing attacks and malware.",
+          "impact": "Security Risks"
+        },
+        "seo": {
+          "title": "SEO Penalties",
+          "description": "Google penalizes improper redirects. 301 vs 302 choice matters - wrong implementation loses link equity and ranking.",
+          "impact": "Ranking Loss"
+        }
+      },
+      "whatMakesDifferent": {
+        "title": "What Makes Our Tool Different",
+        "subtitle": "Professional-grade redirect analysis with features you won't find anywhere else"
+      },
+      "features": {
+        "chainAnalysis": {
+          "title": "Complete Chain Analysis",
+          "description": "Track every hop in the redirect chain with detailed timing, status codes, and redirect types (HTTP, meta refresh, JavaScript)."
+        },
+        "securityAudit": {
+          "title": "Advanced Security Audit",
+          "description": "Comprehensive security header analysis including HSTS, CSP, X-Frame-Options, SSL/TLS validation, and certificate inspection."
+        },
+        "seoAssessment": {
+          "title": "SEO Impact Assessment",
+          "description": "Analyze meta tags, canonical URLs, Open Graph data, and get actionable insights on how redirects affect your search rankings."
+        },
+        "userAgentTesting": {
+          "title": "70+ User-Agent Testing",
+          "description": "Test redirects from Googlebot, Bingbot, social media crawlers, mobile devices, and gaming platforms - see exactly what they see."
+        },
+        "performanceMetrics": {
+          "title": "Real-Time Performance Metrics",
+          "description": "Measure exact redirect timing, identify bottlenecks, and optimize your redirect strategy for lightning-fast load times."
+        },
+        "exportTools": {
+          "title": "Professional Export Tools",
+          "description": "Export comprehensive reports in JSON or CSV format for client presentations, team collaboration, and historical tracking."
+        }
+      },
+      "cta": {
+        "stats": "Used by 10,000+ webmasters, SEO professionals, and developers",
+        "subtitle": "Join the professionals who trust our tool for mission-critical redirect analysis"
+      }
+    },
+    "helpfulTools": {
+      "title": "More Helpful Tools",
+      "subtitle": "Professional tools for web developers, designers, and SEO experts",
+      "tools": {
+        "faviconExtractor": {
+          "name": "Favicon Extractor",
+          "description": "Extract favicon from any website"
+        },
+        "faviconGenerator": {
+          "name": "Favicon Generator",
+          "description": "Generate favicons for all platforms"
+        },
+        "fontGenerator": {
+          "name": "Font Generator",
+          "description": "Create custom font styles"
+        },
+        "schemaValidator": {
+          "name": "Schema Validator",
+          "description": "Validate structured data markup"
+        },
+        "htmlToMarkdown": {
+          "name": "HTML to Markdown",
+          "description": "Convert HTML to Markdown format"
+        },
+        "whatsMyName": {
+          "name": "WhatsMyName",
+          "description": "Username search across platforms"
+        },
+        "publisherLens": {
+          "name": "Publisher Lens",
+          "description": "Publisher analytics and insights"
+        },
+        "serpChecking": {
+          "name": "SERP Checking",
+          "description": "Search engine results checker"
+        },
+        "isItDown": {
+          "name": "Is It Down Or Just Me",
+          "description": "Check if a website is down"
+        }
+      }
+    }
+  },
+  "shared": {
+    "desktop": "Masaüstü",
+    "mobile": "Mobil",
+    "strip_tracking_parameters": "İzleme parametrelerini kaldır"
+  }
+}

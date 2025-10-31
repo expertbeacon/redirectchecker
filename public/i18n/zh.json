@@ -1,0 +1,181 @@
+{
+  "frontend": {
+    "go_to_homepage": "返回首页",
+    "page_not_found": "页面未找到",
+    "meta": {
+      "default": {
+        "title": "重定向检查器 - 您的终极URL重定向分析工具",
+        "description": "免费在线工具，用于检查URL重定向、分析重定向链并优化网站的SEO性能。"
+      }
+    },
+    "home": {
+      "h1": "您的终极URL重定向分析工具",
+      "sub_to_h1": "检查您的重定向和状态码",
+      "results_for": "结果",
+      "no_redirects_found": "未找到重定向。",
+      "redirect_chain": "重定向链",
+      "status": "状态",
+      "final_destination": "最终目的地",
+      "check": "检查",
+      "faq": {
+        "qa1": {
+          "question": "我可以一次检查多个URL吗？",
+          "answer": "可以，我们的批量重定向检查器允许您同时分析多个URL。只需在输入字段中每行输入一个URL即可。\n"
+        },
+        "qa2": {
+          "question": "该工具支持国际URL吗？",
+          "answer": "当然！我们的重定向检查器适用于任何国家或任何语言的URL。\n"
+        },
+        "qa3": {
+          "question": "如何检查移动用户的重定向？",
+          "answer": "从下拉菜单中选择移动用户代理（如iPhone或Android）来模拟移动重定向行为。\n"
+        },
+        "qa4": {
+          "question": "该工具可以跟踪的重定向数量有限制吗？",
+          "answer": "我们的工具最多可以跟踪一个链中的10个重定向。如果超过10个，它将停止并提醒您重定向链异常长。\n"
+        },
+        "qa5": {
+          "question": "这个工具可以帮我找到损坏的重定向吗？",
+          "answer": "可以，该工具将识别重定向链中的任何损坏链接，并向您显示链中断处的HTTP状态码（如404表示「未找到」）。"
+        },
+        "title": "常见问题"
+      },
+      "duration": "时长",
+      "trace_url": "跟踪网址",
+      "features": {
+        "security": {
+          "title": "安全",
+          "description": "SSL、HSTS和安全标头分析"
+        },
+        "seo": {
+          "title": "SEO影响",
+          "description": "元标签、规范链接和SEO指标"
+        },
+        "analysis": {
+          "title": "完整分析",
+          "description": "完整的重定向链和标头"
+        }
+      },
+      "form": {
+        "placeholder": "输入要分析的网址（例如：https://example.com）",
+        "analyzing": "正在分析重定向链...",
+        "submit": "分析重定向链"
+      },
+      "error": {
+        "title": "错误"
+      },
+      "validation": {
+        "url": "请输入有效的网址"
+      }
+    },
+    "whyRedirectChecker": {
+      "whyNeeded": {
+        "title": "为什么需要重定向检查器",
+        "subtitle": "URL重定向对用户不可见，但对您网站的成功至关重要。以下是当它们出错时会发生什么："
+      },
+      "problems": {
+        "brokenChains": {
+          "title": "损坏的重定向链",
+          "description": "重定向循环和损坏的链会破坏您的SEO排名并让用户感到沮丧，导致您损失流量和收入。",
+          "impact": "流量损失"
+        },
+        "slowLoad": {
+          "title": "页面加载缓慢",
+          "description": "每个重定向都会增加宝贵的毫秒加载时间。多次重定向可使跳出率增加高达32%。",
+          "impact": "跳出率更高"
+        },
+        "security": {
+          "title": "安全漏洞",
+          "description": "恶意重定向和开放重定向漏洞会使您的用户暴露于网络钓鱼攻击和恶意软件。",
+          "impact": "安全风险"
+        },
+        "seo": {
+          "title": "SEO惩罚",
+          "description": "Google会惩罚不当的重定向。301与302的选择很重要 - 错误的实现会失去链接权重和排名。",
+          "impact": "排名损失"
+        }
+      },
+      "whatMakesDifferent": {
+        "title": "我们的工具有何不同",
+        "subtitle": "专业级重定向分析，具有您在其他地方找不到的功能"
+      },
+      "features": {
+        "chainAnalysis": {
+          "title": "完整的链分析",
+          "description": "跟踪重定向链中的每一跳，包括详细的时间、状态码和重定向类型（HTTP、元刷新、JavaScript）。"
+        },
+        "securityAudit": {
+          "title": "高级安全审计",
+          "description": "全面的安全标头分析，包括HSTS、CSP、X-Frame-Options、SSL/TLS验证和证书检查。"
+        },
+        "seoAssessment": {
+          "title": "SEO影响评估",
+          "description": "分析元标签、规范URL、Open Graph数据，并获得有关重定向如何影响搜索排名的可操作见解。"
+        },
+        "userAgentTesting": {
+          "title": "70+用户代理测试",
+          "description": "从Googlebot、Bingbot、社交媒体爬虫、移动设备和游戏平台测试重定向 - 准确查看它们所看到的。"
+        },
+        "performanceMetrics": {
+          "title": "实时性能指标",
+          "description": "测量精确的重定向时间，识别瓶颈，并优化您的重定向策略以实现闪电般的加载时间。"
+        },
+        "exportTools": {
+          "title": "专业导出工具",
+          "description": "以JSON或CSV格式导出全面的报告，用于客户演示、团队协作和历史跟踪。"
+        }
+      },
+      "cta": {
+        "stats": "被10,000+网站管理员、SEO专业人士和开发人员使用",
+        "subtitle": "加入信任我们工具进行关键任务重定向分析的专业人士"
+      }
+    },
+    "helpfulTools": {
+      "title": "更多实用工具",
+      "subtitle": "为Web开发人员、设计师和SEO专家提供的专业工具",
+      "tools": {
+        "faviconExtractor": {
+          "name": "Favicon提取器",
+          "description": "从任何网站提取favicon"
+        },
+        "faviconGenerator": {
+          "name": "Favicon生成器",
+          "description": "为所有平台生成favicon"
+        },
+        "fontGenerator": {
+          "name": "字体生成器",
+          "description": "创建自定义字体样式"
+        },
+        "schemaValidator": {
+          "name": "Schema验证器",
+          "description": "验证结构化数据标记"
+        },
+        "htmlToMarkdown": {
+          "name": "HTML转Markdown",
+          "description": "将HTML转换为Markdown格式"
+        },
+        "whatsMyName": {
+          "name": "WhatsMyName",
+          "description": "跨平台用户名搜索"
+        },
+        "publisherLens": {
+          "name": "Publisher Lens",
+          "description": "发布商分析和洞察"
+        },
+        "serpChecking": {
+          "name": "SERP检查",
+          "description": "搜索引擎结果检查器"
+        },
+        "isItDown": {
+          "name": "Is It Down Or Just Me",
+          "description": "检查网站是否宕机"
+        }
+      }
+    }
+  },
+  "shared": {
+    "desktop": "桌面",
+    "mobile": "移动",
+    "strip_tracking_parameters": "删除跟踪参数"
+  }
+}
