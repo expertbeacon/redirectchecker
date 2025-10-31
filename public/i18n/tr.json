@@ -70,64 +70,64 @@
     },
     "whyRedirectChecker": {
       "whyNeeded": {
-        "title": "Why You Need a Redirect Checker",
-        "subtitle": "URL redirects are invisible to users but critical to your website's success. Here's what happens when they go wrong:"
+        "title": "Neden Yönlendirme Denetleyiciye İhtiyacınız Var",
+        "subtitle": "URL yönlendirmeleri kullanıcılar için görünmez ancak web sitenizin başarısı için kritiktir. Yanlış gittiğinde ne olduğunu görün:"
       },
       "problems": {
         "brokenChains": {
-          "title": "Broken Redirect Chains",
-          "description": "Redirect loops and broken chains can destroy your SEO rankings and frustrate users, costing you traffic and revenue.",
-          "impact": "Lost Traffic"
+          "title": "Bozuk Yönlendirme Zincirleri",
+          "description": "Yönlendirme döngüleri ve bozuk zincirler SEO sıralamalarınızı yok edebilir ve kullanıcıları hayal kırıklığına uğratarak trafik ve gelir kaybına neden olabilir.",
+          "impact": "Trafik Kaybı"
         },
         "slowLoad": {
-          "title": "Slow Page Load Times",
-          "description": "Each redirect adds precious milliseconds to load time. Multiple redirects can increase bounce rates by up to 32%.",
-          "impact": "Higher Bounce Rate"
+          "title": "Yavaş Sayfa Yükleme Süreleri",
+          "description": "Her yönlendirme, yükleme süresine değerli milisaniyeler ekler. Birden fazla yönlendirme, hemen çıkma oranlarını %32'ye kadar artırabilir.",
+          "impact": "Daha Yüksek Hemen Çıkma Oranı"
         },
         "security": {
-          "title": "Security Vulnerabilities",
-          "description": "Malicious redirects and open redirect vulnerabilities expose your users to phishing attacks and malware.",
-          "impact": "Security Risks"
+          "title": "Güvenlik Açıkları",
+          "description": "Kötü niyetli yönlendirmeler ve açık yönlendirme güvenlik açıkları, kullanıcılarınızı kimlik avı saldırılarına ve kötü amaçlı yazılımlara maruz bırakır.",
+          "impact": "Güvenlik Riski"
         },
         "seo": {
-          "title": "SEO Penalties",
-          "description": "Google penalizes improper redirects. 301 vs 302 choice matters - wrong implementation loses link equity and ranking.",
-          "impact": "Ranking Loss"
+          "title": "SEO Cezaları",
+          "description": "Google uygunsuz yönlendirmeleri cezalandırır. 301'e karşı 302 seçimi önemlidir - yanlış uygulama link otoritesi ve sıralamaları kaybeder.",
+          "impact": "Sıralama Kaybı"
         }
       },
       "whatMakesDifferent": {
-        "title": "What Makes Our Tool Different",
-        "subtitle": "Professional-grade redirect analysis with features you won't find anywhere else"
+        "title": "Aracımızı Farklı Kılan Nedir",
+        "subtitle": "Başka hiçbir yerde bulamayacağınız özelliklerle profesyonel düzeyde yönlendirme analizi"
       },
       "features": {
         "chainAnalysis": {
-          "title": "Complete Chain Analysis",
-          "description": "Track every hop in the redirect chain with detailed timing, status codes, and redirect types (HTTP, meta refresh, JavaScript)."
+          "title": "Tam Zincir Analizi",
+          "description": "Ayrıntılı zamanlama, durum kodları ve yönlendirme türleri (HTTP, meta yenileme, JavaScript) ile yönlendirme zincirindeki her atlamayı izleyin."
         },
         "securityAudit": {
-          "title": "Advanced Security Audit",
-          "description": "Comprehensive security header analysis including HSTS, CSP, X-Frame-Options, SSL/TLS validation, and certificate inspection."
+          "title": "Gelişmiş Güvenlik Denetimi",
+          "description": "HSTS, CSP, X-Frame-Options, SSL/TLS doğrulama ve sertifika kontrolü dahil kapsamlı güvenlik başlık analizi."
         },
         "seoAssessment": {
-          "title": "SEO Impact Assessment",
-          "description": "Analyze meta tags, canonical URLs, Open Graph data, and get actionable insights on how redirects affect your search rankings."
+          "title": "SEO Etki Değerlendirmesi",
+          "description": "Meta etiketleri, kanonik URL'leri, Open Graph verilerini analiz edin ve yönlendirmelerin arama sıralamalarını nasıl etkilediği hakkında uygulanabilir içgörüler edinin."
         },
         "userAgentTesting": {
-          "title": "70+ User-Agent Testing",
-          "description": "Test redirects from Googlebot, Bingbot, social media crawlers, mobile devices, and gaming platforms - see exactly what they see."
+          "title": "70+ Kullanıcı Aracı Testi",
+          "description": "Googlebot, Bingbot, sosyal medya tarayıcıları, mobil cihazlar ve masaüstü platformlarından yönlendirmeleri test ederek kullanıcıların tam olarak ne gördüğünü görün."
         },
         "performanceMetrics": {
-          "title": "Real-Time Performance Metrics",
-          "description": "Measure exact redirect timing, identify bottlenecks, and optimize your redirect strategy for lightning-fast load times."
+          "title": "Gerçek Zamanlı Performans Metrikleri",
+          "description": "Tam yönlendirme zamanlamasını ölçün, darboğazları belirleyin ve şimşek hızında yükleme süreleri için yönlendirme stratejinizi optimize edin."
         },
         "exportTools": {
-          "title": "Professional Export Tools",
-          "description": "Export comprehensive reports in JSON or CSV format for client presentations, team collaboration, and historical tracking."
+          "title": "Profesyonel Dışa Aktarma Araçları",
+          "description": "Müşteri raporları, ekip işbirliği ve geçmiş izleme için kapsamlı raporları JSON veya CSV formatında dışa aktarın."
         }
       },
       "cta": {
-        "stats": "Used by 10,000+ webmasters, SEO professionals, and developers",
-        "subtitle": "Join the professionals who trust our tool for mission-critical redirect analysis"
+        "stats": "10.000'den fazla web yöneticisi, SEO profesyoneli ve geliştirici tarafından kullanılıyor",
+        "subtitle": "Görev açısından kritik yönlendirme analizi için aracımıza güvenen profesyonellere katılın"
       }
     },
     "helpfulTools": {

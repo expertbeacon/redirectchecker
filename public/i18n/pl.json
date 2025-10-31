@@ -70,64 +70,64 @@
     },
     "whyRedirectChecker": {
       "whyNeeded": {
-        "title": "Why You Need a Redirect Checker",
-        "subtitle": "URL redirects are invisible to users but critical to your website's success. Here's what happens when they go wrong:"
+        "title": "Dlaczego potrzebujesz Sprawdzarki Przekierowań",
+        "subtitle": "Przekierowania URL są niewidoczne dla użytkowników, ale kluczowe dla sukcesu Twojej witryny. Oto co się dzieje, gdy coś pójdzie nie tak:"
       },
       "problems": {
         "brokenChains": {
-          "title": "Broken Redirect Chains",
-          "description": "Redirect loops and broken chains can destroy your SEO rankings and frustrate users, costing you traffic and revenue.",
-          "impact": "Lost Traffic"
+          "title": "Uszkodzone Łańcuchy Przekierowań",
+          "description": "Pętle przekierowań i uszkodzone łańcuchy mogą zniszczyć Twoje rankingi SEO i sfrustrować użytkowników, powodując straty w ruchu i przychodach.",
+          "impact": "Utrata Ruchu"
         },
         "slowLoad": {
-          "title": "Slow Page Load Times",
-          "description": "Each redirect adds precious milliseconds to load time. Multiple redirects can increase bounce rates by up to 32%.",
-          "impact": "Higher Bounce Rate"
+          "title": "Wolne Czasy Ładowania",
+          "description": "Każde przekierowanie dodaje cenne milisekundy do czasu ładowania. Wiele przekierowań może zwiększyć współczynnik odrzuceń nawet o 32%.",
+          "impact": "Wyższy Współczynnik Odrzuceń"
         },
         "security": {
-          "title": "Security Vulnerabilities",
-          "description": "Malicious redirects and open redirect vulnerabilities expose your users to phishing attacks and malware.",
-          "impact": "Security Risks"
+          "title": "Luki w Bezpieczeństwie",
+          "description": "Złośliwe przekierowania i otwarte luki w przekierowaniach narażają użytkowników na ataki phishingowe i malware.",
+          "impact": "Ryzyko Bezpieczeństwa"
         },
         "seo": {
-          "title": "SEO Penalties",
-          "description": "Google penalizes improper redirects. 301 vs 302 choice matters - wrong implementation loses link equity and ranking.",
-          "impact": "Ranking Loss"
+          "title": "Kary SEO",
+          "description": "Google karze niewłaściwe przekierowania. Wybór między 301 a 302 ma znaczenie - niewłaściwa implementacja traci autorytet linków i rankingi.",
+          "impact": "Utrata Rankingu"
         }
       },
       "whatMakesDifferent": {
-        "title": "What Makes Our Tool Different",
-        "subtitle": "Professional-grade redirect analysis with features you won't find anywhere else"
+        "title": "Co wyróżnia nasze narzędzie",
+        "subtitle": "Profesjonalna analiza przekierowań z funkcjami, których nie znajdziesz nigdzie indziej"
       },
       "features": {
         "chainAnalysis": {
-          "title": "Complete Chain Analysis",
-          "description": "Track every hop in the redirect chain with detailed timing, status codes, and redirect types (HTTP, meta refresh, JavaScript)."
+          "title": "Pełna Analiza Łańcucha",
+          "description": "Śledź każdy skok w łańcuchu przekierowań ze szczegółowym czasem, kodami stanu i typami przekierowań (HTTP, meta refresh, JavaScript)."
         },
         "securityAudit": {
-          "title": "Advanced Security Audit",
-          "description": "Comprehensive security header analysis including HSTS, CSP, X-Frame-Options, SSL/TLS validation, and certificate inspection."
+          "title": "Zaawansowany Audyt Bezpieczeństwa",
+          "description": "Kompleksowa analiza nagłówków bezpieczeństwa, w tym HSTS, CSP, X-Frame-Options, walidacja SSL/TLS i sprawdzanie certyfikatów."
         },
         "seoAssessment": {
-          "title": "SEO Impact Assessment",
-          "description": "Analyze meta tags, canonical URLs, Open Graph data, and get actionable insights on how redirects affect your search rankings."
+          "title": "Ocena Wpływu SEO",
+          "description": "Analizuj meta tagi, kanoniczne URL, dane Open Graph i uzyskaj praktyczne wglądy w to, jak przekierowania wpływają na rankingi wyszukiwania."
         },
         "userAgentTesting": {
-          "title": "70+ User-Agent Testing",
-          "description": "Test redirects from Googlebot, Bingbot, social media crawlers, mobile devices, and gaming platforms - see exactly what they see."
+          "title": "Testy 70+ User-Agentów",
+          "description": "Testuj przekierowania z Googlebot, Bingbot, crawlerów mediów społecznościowych, urządzeń mobilnych i platform desktopowych, aby zobaczyć dokładnie to, co widzą użytkownicy."
         },
         "performanceMetrics": {
-          "title": "Real-Time Performance Metrics",
-          "description": "Measure exact redirect timing, identify bottlenecks, and optimize your redirect strategy for lightning-fast load times."
+          "title": "Metryki Wydajności w Czasie Rzeczywistym",
+          "description": "Mierz dokładny czas przekierowań, identyfikuj wąskie gardła i optymalizuj strategię przekierowań dla błyskawicznych czasów ładowania."
         },
         "exportTools": {
-          "title": "Professional Export Tools",
-          "description": "Export comprehensive reports in JSON or CSV format for client presentations, team collaboration, and historical tracking."
+          "title": "Profesjonalne Narzędzia Eksportu",
+          "description": "Eksportuj kompleksowe raporty w formacie JSON lub CSV do raportów klientów, współpracy zespołowej i śledzenia historycznego."
         }
       },
       "cta": {
-        "stats": "Used by 10,000+ webmasters, SEO professionals, and developers",
-        "subtitle": "Join the professionals who trust our tool for mission-critical redirect analysis"
+        "stats": "Używane przez ponad 10 000 webmasterów, specjalistów SEO i programistów",
+        "subtitle": "Dołącz do profesjonalistów, którzy ufają naszemu narzędziu do krytycznej analizy przekierowań"
       }
     },
     "helpfulTools": {

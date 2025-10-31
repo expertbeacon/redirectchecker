@@ -70,64 +70,64 @@
     },
     "whyRedirectChecker": {
       "whyNeeded": {
-        "title": "Why You Need a Redirect Checker",
-        "subtitle": "URL redirects are invisible to users but critical to your website's success. Here's what happens when they go wrong:"
+        "title": "리디렉트 검사기가 필요한 이유",
+        "subtitle": "URL 리디렉트는 사용자에게는 보이지 않지만 웹사이트 성공에 중요합니다. 잘못되면 어떤 일이 발생하는지 확인하세요:"
       },
       "problems": {
         "brokenChains": {
-          "title": "Broken Redirect Chains",
-          "description": "Redirect loops and broken chains can destroy your SEO rankings and frustrate users, costing you traffic and revenue.",
-          "impact": "Lost Traffic"
+          "title": "손상된 리디렉트 체인",
+          "description": "리디렉트 루프와 손상된 체인은 SEO 순위를 파괴하고 사용자를 좌절시켜 트래픽과 수익 손실을 초래합니다.",
+          "impact": "트래픽 손실"
         },
         "slowLoad": {
-          "title": "Slow Page Load Times",
-          "description": "Each redirect adds precious milliseconds to load time. Multiple redirects can increase bounce rates by up to 32%.",
-          "impact": "Higher Bounce Rate"
+          "title": "느린 페이지 로드 시간",
+          "description": "각 리디렉트는 귀중한 밀리초를 로드 시간에 추가합니다. 여러 리디렉트는 이탈률을 최대 32%까지 증가시킬 수 있습니다.",
+          "impact": "더 높은 이탈률"
         },
         "security": {
-          "title": "Security Vulnerabilities",
-          "description": "Malicious redirects and open redirect vulnerabilities expose your users to phishing attacks and malware.",
-          "impact": "Security Risks"
+          "title": "보안 취약점",
+          "description": "악의적인 리디렉트 및 개방형 리디렉트 취약점은 사용자를 피싱 공격 및 멀웨어에 노출시킵니다.",
+          "impact": "보안 위험"
         },
         "seo": {
-          "title": "SEO Penalties",
-          "description": "Google penalizes improper redirects. 301 vs 302 choice matters - wrong implementation loses link equity and ranking.",
-          "impact": "Ranking Loss"
+          "title": "SEO 패널티",
+          "description": "Google은 부적절한 리디렉트에 패널티를 부과합니다. 301 대 302 선택이 중요합니다 - 잘못된 구현은 링크 권한 및 순위를 잃습니다.",
+          "impact": "순위 손실"
         }
       },
       "whatMakesDifferent": {
-        "title": "What Makes Our Tool Different",
-        "subtitle": "Professional-grade redirect analysis with features you won't find anywhere else"
+        "title": "우리 도구의 차별점",
+        "subtitle": "다른 곳에서는 찾을 수 없는 기능을 갖춘 전문가급 리디렉트 분석"
       },
       "features": {
         "chainAnalysis": {
-          "title": "Complete Chain Analysis",
-          "description": "Track every hop in the redirect chain with detailed timing, status codes, and redirect types (HTTP, meta refresh, JavaScript)."
+          "title": "완전한 체인 분석",
+          "description": "리디렉트 체인의 모든 홉을 추적하고 상세한 타이밍, 상태 코드 및 리디렉트 유형(HTTP, 메타 새로고침, JavaScript)을 포함합니다."
         },
         "securityAudit": {
-          "title": "Advanced Security Audit",
-          "description": "Comprehensive security header analysis including HSTS, CSP, X-Frame-Options, SSL/TLS validation, and certificate inspection."
+          "title": "고급 보안 감사",
+          "description": "HSTS, CSP, X-Frame-Options, SSL/TLS 검증 및 인증서 검사를 포함한 포괄적인 보안 헤더 분석."
         },
         "seoAssessment": {
-          "title": "SEO Impact Assessment",
-          "description": "Analyze meta tags, canonical URLs, Open Graph data, and get actionable insights on how redirects affect your search rankings."
+          "title": "SEO 영향 평가",
+          "description": "메타 태그, 캐노니컬 URL, 오픈 그래프 데이터를 분석하고 리디렉트가 검색 순위에 미치는 영향에 대한 실행 가능한 인사이트를 얻으세요."
         },
         "userAgentTesting": {
-          "title": "70+ User-Agent Testing",
-          "description": "Test redirects from Googlebot, Bingbot, social media crawlers, mobile devices, and gaming platforms - see exactly what they see."
+          "title": "70+ 사용자 에이전트 테스트",
+          "description": "Googlebot, Bingbot, 소셜 미디어 크롤러, 모바일 장치 및 데스크톱 플랫폼에서 리디렉트를 테스트하여 사용자가 보는 것을 정확히 확인하세요."
         },
         "performanceMetrics": {
-          "title": "Real-Time Performance Metrics",
-          "description": "Measure exact redirect timing, identify bottlenecks, and optimize your redirect strategy for lightning-fast load times."
+          "title": "실시간 성능 메트릭",
+          "description": "정확한 리디렉트 타이밍을 측정하고 병목 현상을 식별하며 번개처럼 빠른 로드 시간을 위한 리디렉트 전략을 최적화하세요."
         },
         "exportTools": {
-          "title": "Professional Export Tools",
-          "description": "Export comprehensive reports in JSON or CSV format for client presentations, team collaboration, and historical tracking."
+          "title": "전문 내보내기 도구",
+          "description": "클라이언트 보고서, 팀 협업 및 기록 추적을 위해 포괄적인 보고서를 JSON 또는 CSV 형식으로 내보내세요."
         }
       },
       "cta": {
-        "stats": "Used by 10,000+ webmasters, SEO professionals, and developers",
-        "subtitle": "Join the professionals who trust our tool for mission-critical redirect analysis"
+        "stats": "10,000명 이상의 웹마스터, SEO 전문가 및 개발자가 사용",
+        "subtitle": "미션 크리티컬 리디렉트 분석을 위해 우리 도구를 신뢰하는 전문가들과 함께하세요"
       }
     },
     "helpfulTools": {

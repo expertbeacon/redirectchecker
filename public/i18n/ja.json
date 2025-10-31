@@ -70,64 +70,64 @@
     },
     "whyRedirectChecker": {
       "whyNeeded": {
-        "title": "Why You Need a Redirect Checker",
-        "subtitle": "URL redirects are invisible to users but critical to your website's success. Here's what happens when they go wrong:"
+        "title": "リダイレクトチェッカーが必要な理由",
+        "subtitle": "URLリダイレクトはユーザーには見えませんが、ウェブサイトの成功に不可欠です。間違った場合に何が起こるかをご覧ください："
       },
       "problems": {
         "brokenChains": {
-          "title": "Broken Redirect Chains",
-          "description": "Redirect loops and broken chains can destroy your SEO rankings and frustrate users, costing you traffic and revenue.",
-          "impact": "Lost Traffic"
+          "title": "壊れたリダイレクトチェーン",
+          "description": "リダイレクトループと壊れたチェーンは、SEOランキングを破壊し、ユーザーをイライラさせ、トラフィックと収益の損失につながります。",
+          "impact": "トラフィック損失"
         },
         "slowLoad": {
-          "title": "Slow Page Load Times",
-          "description": "Each redirect adds precious milliseconds to load time. Multiple redirects can increase bounce rates by up to 32%.",
-          "impact": "Higher Bounce Rate"
+          "title": "遅いページ読み込み時間",
+          "description": "各リダイレクトは、読み込み時間に貴重なミリ秒を追加します。複数のリダイレクトは、直帰率を最大32%増加させる可能性があります。",
+          "impact": "高い直帰率"
         },
         "security": {
-          "title": "Security Vulnerabilities",
-          "description": "Malicious redirects and open redirect vulnerabilities expose your users to phishing attacks and malware.",
-          "impact": "Security Risks"
+          "title": "セキュリティ脆弱性",
+          "description": "悪意のあるリダイレクトとオープンリダイレクトの脆弱性は、ユーザーをフィッシング攻撃やマルウェアにさらします。",
+          "impact": "セキュリティリスク"
         },
         "seo": {
-          "title": "SEO Penalties",
-          "description": "Google penalizes improper redirects. 301 vs 302 choice matters - wrong implementation loses link equity and ranking.",
-          "impact": "Ranking Loss"
+          "title": "SEOペナルティ",
+          "description": "Googleは不適切なリダイレクトにペナルティを課します。301対302の選択が重要です - 間違った実装はリンク権限とランキングを失います。",
+          "impact": "ランキング損失"
         }
       },
       "whatMakesDifferent": {
-        "title": "What Makes Our Tool Different",
-        "subtitle": "Professional-grade redirect analysis with features you won't find anywhere else"
+        "title": "当ツールの違い",
+        "subtitle": "他では見つからない機能を備えたプロフェッショナルグレードのリダイレクト分析"
       },
       "features": {
         "chainAnalysis": {
-          "title": "Complete Chain Analysis",
-          "description": "Track every hop in the redirect chain with detailed timing, status codes, and redirect types (HTTP, meta refresh, JavaScript)."
+          "title": "完全なチェーン分析",
+          "description": "リダイレクトチェーンのすべてのホップを追跡し、詳細なタイミング、ステータスコード、リダイレクトタイプ（HTTP、メタリフレッシュ、JavaScript）を含みます。"
         },
         "securityAudit": {
-          "title": "Advanced Security Audit",
-          "description": "Comprehensive security header analysis including HSTS, CSP, X-Frame-Options, SSL/TLS validation, and certificate inspection."
+          "title": "高度なセキュリティ監査",
+          "description": "HSTS、CSP、X-Frame-Options、SSL/TLS検証、証明書チェックを含む包括的なセキュリティヘッダー分析。"
         },
         "seoAssessment": {
-          "title": "SEO Impact Assessment",
-          "description": "Analyze meta tags, canonical URLs, Open Graph data, and get actionable insights on how redirects affect your search rankings."
+          "title": "SEO影響評価",
+          "description": "メタタグ、カノニカルURL、Open Graphデータを分析し、リダイレクトが検索ランキングにどのように影響するかについての実用的な洞察を得ます。"
         },
         "userAgentTesting": {
-          "title": "70+ User-Agent Testing",
-          "description": "Test redirects from Googlebot, Bingbot, social media crawlers, mobile devices, and gaming platforms - see exactly what they see."
+          "title": "70以上のユーザーエージェントテスト",
+          "description": "Googlebot、Bingbot、ソーシャルメディアクローラー、モバイルデバイス、デスクトッププラットフォームからリダイレクトをテストして、ユーザーが見るものを正確に確認します。"
         },
         "performanceMetrics": {
-          "title": "Real-Time Performance Metrics",
-          "description": "Measure exact redirect timing, identify bottlenecks, and optimize your redirect strategy for lightning-fast load times."
+          "title": "リアルタイムパフォーマンスメトリクス",
+          "description": "正確なリダイレクトタイミングを測定し、ボトルネックを特定し、稲妻のように速い読み込み時間のためにリダイレクト戦略を最適化します。"
         },
         "exportTools": {
-          "title": "Professional Export Tools",
-          "description": "Export comprehensive reports in JSON or CSV format for client presentations, team collaboration, and historical tracking."
+          "title": "プロフェッショナルエクスポートツール",
+          "description": "クライアントレポート、チームコラボレーション、履歴追跡のために、包括的なレポートをJSONまたはCSV形式でエクスポートします。"
         }
       },
       "cta": {
-        "stats": "Used by 10,000+ webmasters, SEO professionals, and developers",
-        "subtitle": "Join the professionals who trust our tool for mission-critical redirect analysis"
+        "stats": "10,000人以上のウェブマスター、SEOプロフェッショナル、開発者が使用",
+        "subtitle": "ミッションクリティカルなリダイレクト分析のために当ツールを信頼するプロフェッショナルに参加してください"
       }
     },
     "helpfulTools": {

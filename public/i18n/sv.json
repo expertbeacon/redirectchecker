@@ -70,64 +70,64 @@
     },
     "whyRedirectChecker": {
       "whyNeeded": {
-        "title": "Why You Need a Redirect Checker",
-        "subtitle": "URL redirects are invisible to users but critical to your website's success. Here's what happens when they go wrong:"
+        "title": "Varför du behöver en Omdirigeringskontrollant",
+        "subtitle": "URL-omdirigeringar är osynliga för användare men avgörande för din webbplats framgång. Här är vad som händer när de går fel:"
       },
       "problems": {
         "brokenChains": {
-          "title": "Broken Redirect Chains",
-          "description": "Redirect loops and broken chains can destroy your SEO rankings and frustrate users, costing you traffic and revenue.",
-          "impact": "Lost Traffic"
+          "title": "Brutna Omdirigeringskedjor",
+          "description": "Omdirigeringsloopar och brutna kedjor kan förstöra dina SEO-rankningar och frustrera användare, vilket orsakar förluster i trafik och intäkter.",
+          "impact": "Trafikförlust"
         },
         "slowLoad": {
-          "title": "Slow Page Load Times",
-          "description": "Each redirect adds precious milliseconds to load time. Multiple redirects can increase bounce rates by up to 32%.",
-          "impact": "Higher Bounce Rate"
+          "title": "Långsamma Laddningstider",
+          "description": "Varje omdirigering lägger till värdefulla millisekunder till laddningstiden. Flera omdirigeringar kan öka avvisningsfrekvensen med upp till 32%.",
+          "impact": "Högre Avvisningsfrekvens"
         },
         "security": {
-          "title": "Security Vulnerabilities",
-          "description": "Malicious redirects and open redirect vulnerabilities expose your users to phishing attacks and malware.",
-          "impact": "Security Risks"
+          "title": "Säkerhetssårbarheter",
+          "description": "Skadliga omdirigeringar och öppna omdirigeringssårbarheter utsätter dina användare för nätfiskeattacker och skadlig programvara.",
+          "impact": "Säkerhetsrisk"
         },
         "seo": {
-          "title": "SEO Penalties",
-          "description": "Google penalizes improper redirects. 301 vs 302 choice matters - wrong implementation loses link equity and ranking.",
-          "impact": "Ranking Loss"
+          "title": "SEO-straff",
+          "description": "Google straffar felaktiga omdirigeringar. Valet mellan 301 vs 302 spelar roll - felaktig implementering förlorar länkauktoritet och rankningar.",
+          "impact": "Rankningsförlust"
         }
       },
       "whatMakesDifferent": {
-        "title": "What Makes Our Tool Different",
-        "subtitle": "Professional-grade redirect analysis with features you won't find anywhere else"
+        "title": "Vad som gör vårt verktyg annorlunda",
+        "subtitle": "Professionell omdirigeringsanalys med funktioner du inte hittar någon annanstans"
       },
       "features": {
         "chainAnalysis": {
-          "title": "Complete Chain Analysis",
-          "description": "Track every hop in the redirect chain with detailed timing, status codes, and redirect types (HTTP, meta refresh, JavaScript)."
+          "title": "Fullständig Kedjeanalys",
+          "description": "Spåra varje hopp i omdirigeringskedjan med detaljerad timing, statuskoder och omdirigeringstyper (HTTP, meta refresh, JavaScript)."
         },
         "securityAudit": {
-          "title": "Advanced Security Audit",
-          "description": "Comprehensive security header analysis including HSTS, CSP, X-Frame-Options, SSL/TLS validation, and certificate inspection."
+          "title": "Avancerad Säkerhetsrevision",
+          "description": "Omfattande säkerhetsheaderanalys inklusive HSTS, CSP, X-Frame-Options, SSL/TLS-validering och certifikatskontroll."
         },
         "seoAssessment": {
-          "title": "SEO Impact Assessment",
-          "description": "Analyze meta tags, canonical URLs, Open Graph data, and get actionable insights on how redirects affect your search rankings."
+          "title": "SEO-påverkansbedömning",
+          "description": "Analysera meta-taggar, kanoniska URL:er, Open Graph-data och få användbara insikter om hur omdirigeringar påverkar sökkrankningar."
         },
         "userAgentTesting": {
-          "title": "70+ User-Agent Testing",
-          "description": "Test redirects from Googlebot, Bingbot, social media crawlers, mobile devices, and gaming platforms - see exactly what they see."
+          "title": "70+ User-Agent-tester",
+          "description": "Testa omdirigeringar från Googlebot, Bingbot, sociala mediekrypare, mobila enheter och skrivbordsplattformar för att se exakt vad användare ser."
         },
         "performanceMetrics": {
-          "title": "Real-Time Performance Metrics",
-          "description": "Measure exact redirect timing, identify bottlenecks, and optimize your redirect strategy for lightning-fast load times."
+          "title": "Realtidsprestandamätningar",
+          "description": "Mät exakt omdirigeringstiming, identifiera flaskhalsar och optimera din omdirigeringsstrategi för blixtsnabba laddningstider."
         },
         "exportTools": {
-          "title": "Professional Export Tools",
-          "description": "Export comprehensive reports in JSON or CSV format for client presentations, team collaboration, and historical tracking."
+          "title": "Professionella Exportverktyg",
+          "description": "Exportera omfattande rapporter i JSON- eller CSV-format för kundrapporter, teamsamarbete och historisk spårning."
         }
       },
       "cta": {
-        "stats": "Used by 10,000+ webmasters, SEO professionals, and developers",
-        "subtitle": "Join the professionals who trust our tool for mission-critical redirect analysis"
+        "stats": "Används av över 10 000 webbansvariga, SEO-proffs och utvecklare",
+        "subtitle": "Gå med i de proffs som litar på vårt verktyg för kritisk omdirigeringsanalys"
       }
     },
     "helpfulTools": {

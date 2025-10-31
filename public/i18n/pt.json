@@ -70,64 +70,64 @@
     },
     "whyRedirectChecker": {
       "whyNeeded": {
-        "title": "Why You Need a Redirect Checker",
-        "subtitle": "URL redirects are invisible to users but critical to your website's success. Here's what happens when they go wrong:"
+        "title": "Por que você precisa de um Verificador de Redirecionamentos",
+        "subtitle": "Redirecionamentos de URL são invisíveis para os usuários, mas críticos para o sucesso do seu site. Veja o que acontece quando dão errado:"
       },
       "problems": {
         "brokenChains": {
-          "title": "Broken Redirect Chains",
-          "description": "Redirect loops and broken chains can destroy your SEO rankings and frustrate users, costing you traffic and revenue.",
-          "impact": "Lost Traffic"
+          "title": "Cadeias de Redirecionamento Quebradas",
+          "description": "Loops de redirecionamento e cadeias quebradas podem destruir seus rankings de SEO e frustrar os usuários, causando perdas de tráfego e receita.",
+          "impact": "Perda de Tráfego"
         },
         "slowLoad": {
-          "title": "Slow Page Load Times",
-          "description": "Each redirect adds precious milliseconds to load time. Multiple redirects can increase bounce rates by up to 32%.",
-          "impact": "Higher Bounce Rate"
+          "title": "Tempos de Carregamento Lentos",
+          "description": "Cada redirecionamento adiciona milissegundos preciosos ao tempo de carregamento. Múltiplos redirecionamentos podem aumentar as taxas de rejeição em até 32%.",
+          "impact": "Taxa de Rejeição Mais Alta"
         },
         "security": {
-          "title": "Security Vulnerabilities",
-          "description": "Malicious redirects and open redirect vulnerabilities expose your users to phishing attacks and malware.",
-          "impact": "Security Risks"
+          "title": "Vulnerabilidades de Segurança",
+          "description": "Redirecionamentos maliciosos e vulnerabilidades de redirecionamento aberto expõem seus usuários a ataques de phishing e malware.",
+          "impact": "Risco de Segurança"
         },
         "seo": {
-          "title": "SEO Penalties",
-          "description": "Google penalizes improper redirects. 301 vs 302 choice matters - wrong implementation loses link equity and ranking.",
-          "impact": "Ranking Loss"
+          "title": "Penalidades de SEO",
+          "description": "Google penaliza redirecionamentos inadequados. A escolha entre 301 vs 302 importa - implementação errada perde autoridade de link e rankings.",
+          "impact": "Perda de Ranking"
         }
       },
       "whatMakesDifferent": {
-        "title": "What Makes Our Tool Different",
-        "subtitle": "Professional-grade redirect analysis with features you won't find anywhere else"
+        "title": "O que torna nossa ferramenta diferente",
+        "subtitle": "Análise de redirecionamentos de nível profissional com recursos que você não encontrará em nenhum outro lugar"
       },
       "features": {
         "chainAnalysis": {
-          "title": "Complete Chain Analysis",
-          "description": "Track every hop in the redirect chain with detailed timing, status codes, and redirect types (HTTP, meta refresh, JavaScript)."
+          "title": "Análise Completa da Cadeia",
+          "description": "Rastreie cada salto na cadeia de redirecionamento com timing detalhado, códigos de status e tipos de redirecionamento (HTTP, meta refresh, JavaScript)."
         },
         "securityAudit": {
-          "title": "Advanced Security Audit",
-          "description": "Comprehensive security header analysis including HSTS, CSP, X-Frame-Options, SSL/TLS validation, and certificate inspection."
+          "title": "Auditoria de Segurança Avançada",
+          "description": "Análise abrangente de cabeçalhos de segurança incluindo HSTS, CSP, X-Frame-Options, validação SSL/TLS e verificação de certificado."
         },
         "seoAssessment": {
-          "title": "SEO Impact Assessment",
-          "description": "Analyze meta tags, canonical URLs, Open Graph data, and get actionable insights on how redirects affect your search rankings."
+          "title": "Avaliação de Impacto SEO",
+          "description": "Analise meta tags, URLs canônicas, dados Open Graph e obtenha insights acionáveis sobre como os redirecionamentos afetam os rankings de pesquisa."
         },
         "userAgentTesting": {
-          "title": "70+ User-Agent Testing",
-          "description": "Test redirects from Googlebot, Bingbot, social media crawlers, mobile devices, and gaming platforms - see exactly what they see."
+          "title": "Testes de 70+ User-Agents",
+          "description": "Teste redirecionamentos do Googlebot, Bingbot, crawlers de mídia social, dispositivos móveis e plataformas de desktop para ver exatamente o que os usuários veem."
         },
         "performanceMetrics": {
-          "title": "Real-Time Performance Metrics",
-          "description": "Measure exact redirect timing, identify bottlenecks, and optimize your redirect strategy for lightning-fast load times."
+          "title": "Métricas de Desempenho em Tempo Real",
+          "description": "Meça o timing exato do redirecionamento, identifique gargalos e otimize sua estratégia de redirecionamento para tempos de carregamento ultra-rápidos."
         },
         "exportTools": {
-          "title": "Professional Export Tools",
-          "description": "Export comprehensive reports in JSON or CSV format for client presentations, team collaboration, and historical tracking."
+          "title": "Ferramentas de Exportação Profissionais",
+          "description": "Exporte relatórios abrangentes em formato JSON ou CSV para relatórios de clientes, colaboração em equipe e rastreamento histórico."
         }
       },
       "cta": {
-        "stats": "Used by 10,000+ webmasters, SEO professionals, and developers",
-        "subtitle": "Join the professionals who trust our tool for mission-critical redirect analysis"
+        "stats": "Usado por mais de 10.000 webmasters, profissionais de SEO e desenvolvedores",
+        "subtitle": "Junte-se aos profissionais que confiam em nossa ferramenta para análise crítica de redirecionamentos"
       }
     },
     "helpfulTools": {
